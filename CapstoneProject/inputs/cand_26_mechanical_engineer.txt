@@ -1,0 +1,3 @@
+"Mechanical Design Engineer proficient in 3D CAD modeling with SolidWorks and AutoCAD, finite "
+            "element analysis, thermal stress simulation, and geometric dimensioning. Experienced in CNC "
+            "manufacturing tolerances and automotive component testing."

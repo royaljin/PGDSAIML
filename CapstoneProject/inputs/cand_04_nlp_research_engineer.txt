@@ -1,0 +1,4 @@
+Applied NLP Engineer focused on semantic similarity, bi-encoders, and cross-encoder 
+reranking using Sentence-Transformers, PyTorch, and TensorFlow. Developed production Python 
+APIs with FastAPI, containerized workloads with Docker, and managed relational SQL stores 
+across AWS cloud environments.

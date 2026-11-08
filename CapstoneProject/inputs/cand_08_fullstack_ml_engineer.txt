@@ -1,0 +1,3 @@
+Full-Stack Machine Learning Developer building automated text matching systems with Python, 
+Sentence-Transformers, TensorFlow, and PyTorch. Experienced in FastAPI backend engineering, 
+Docker, Kubernetes, SQL database design, and cloud deployment on AWS.

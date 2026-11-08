@@ -1,0 +1,4 @@
+Machine Learning Systems Engineer experienced in deploying TensorFlow and PyTorch models 
+at scale. Built high-throughput FastAPI inference microservices orchestrated via Kubernetes 
+and Docker on AWS EKS. Skilled in Python, SQL data pipelines, NLP feature extraction, and 
+automated CI/CD model monitoring.

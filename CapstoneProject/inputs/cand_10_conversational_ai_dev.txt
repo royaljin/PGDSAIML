@@ -1,0 +1,3 @@
+Conversational AI and NLP Engineer experienced in intent classification, semantic retrieval 
+with Sentence-Transformers, Python, TensorFlow, and PyTorch. Skilled in Dockerizing FastAPI 
+applications, Kubernetes deployment, SQL querying, and AWS cloud services.

@@ -1,0 +1,5 @@
+Senior Data Scientist and MLOps Engineer with 6 years of experience building production 
+Natural Language Processing pipelines in Python. Proficient in TensorFlow, PyTorch, and 
+Sentence-Transformers for semantic search and text classification. Experienced in packaging 
+models as FastAPI REST services, Docker containerization, Kubernetes orchestration, SQL 
+database optimization, and cloud deployment on AWS.

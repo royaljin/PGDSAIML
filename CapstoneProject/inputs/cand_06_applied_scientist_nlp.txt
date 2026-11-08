@@ -1,0 +1,3 @@
+Applied Machine Learning Scientist skilled in NLP, named entity recognition, and dense 
+vector embeddings with Sentence-Transformers. Experienced with Python, TensorFlow, PyTorch, 
+SQL, Docker, and building low-latency FastAPI inference services hosted on AWS.

@@ -1,0 +1,4 @@
+Lead Data Scientist specializing in deep learning and NLP architectures using Python,
+PyTorch, and TensorFlow. Designed end-to-end MLOps workflows on AWS with Docker and 
+Kubernetes. Strong background in PostgreSQL query tuning, FastAPI model serving, and 
+fine-tuning transformer embeddings for enterprise document retrieval.

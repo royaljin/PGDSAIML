@@ -1,0 +1,3 @@
+"Distributed Systems Software Engineer proficient in Java, Spring Boot, REST API design, "
+            "Docker, Kubernetes, PostgreSQL, and AWS cloud infrastructure. Experienced in writing Python "
+            "integration scripts and managing high-throughput microservices."

@@ -1,0 +1,3 @@
+Senior Data Analyst skilled in complex SQL querying, Python data manipulation with Pandas 
+and NumPy, statistical hypothesis testing, and interactive Tableau dashboards. Experienced in 
+ETL pipeline maintenance and predictive regression modeling in Scikit-Learn.

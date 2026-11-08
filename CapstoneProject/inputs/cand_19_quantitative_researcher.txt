@@ -1,0 +1,3 @@
+"Quantitative Researcher with expertise in Python, NumPy, SciPy, R, and SQL for algorithmic "
+            "time-series forecasting and statistical risk modeling. Experienced in stochastic optimization "
+            "and high-frequency financial data analysis."

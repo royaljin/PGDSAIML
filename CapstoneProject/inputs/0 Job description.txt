@@ -1,0 +1,18 @@
+Role: Senior Data Scientist — NLP & MLOps
+
+About the Role:
+We are looking for a Senior Data Scientist and MLOps Engineer to design, train, and deploy production Natural Language Processing (NLP) and semantic search systems. You will build end-to-end machine learning pipelines that power candidate-job matching, dense vector retrieval, and automated skill-gap analysis.
+
+Key Responsibilities:
+- Architect and fine-tune deep learning and transformer models for text classification, semantic similarity, and cross-encoder reranking.
+- Build scalable, low-latency REST API inference microservices using Python and FastAPI.
+- Containerize ML workloads with Docker and orchestrate production deployments on Kubernetes clusters within AWS.
+- Optimize relational SQL and PostgreSQL queries for high-throughput training and inference data pipelines.
+- Implement automated CI/CD workflows, model quantization, and production drift monitoring.
+
+Required Qualifications:
+- 4+ years of hands-on experience in Python, TensorFlow, PyTorch, and Scikit-Learn.
+- Proven expertise in Natural Language Processing (NLP), Sentence-Transformers, and dense embedding architectures.
+- Strong production engineering skills with FastAPI, Docker, Kubernetes, and AWS cloud infrastructure.
+- Solid proficiency in SQL and PostgreSQL database optimization.
+- Familiarity with MLOps best practices, REST API design, and automated testing.

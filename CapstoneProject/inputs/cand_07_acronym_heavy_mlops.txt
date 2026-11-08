@@ -1,0 +1,3 @@
+Senior ML Engineer proficient in Python, TF, PyTorch, NLP, and SBERT embedding pipelines. 
+Hands-on experience deploying REST microservices via FastAPI, Docker, and K8s clusters on 
+AWS infrastructure with PostgreSQL backends and automated MLOps drift tracking.

@@ -1,0 +1,3 @@
+"Product UI/UX Designer specializing in user research, wireframing, interactive prototyping, "
+            "and design systems using Figma, Adobe XD, and Sketch. Conducts usability testing and heuristic "
+            "evaluations to improve customer onboarding flows."

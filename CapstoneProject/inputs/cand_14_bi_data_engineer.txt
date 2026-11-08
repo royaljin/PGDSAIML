@@ -1,0 +1,3 @@
+"Data Engineer experienced in building distributed ETL workflows using Python, Apache Spark, "
+            "Airflow, and SQL across Snowflake and AWS Redshift. Familiar with Dockerized batch jobs and "
+            "data warehouse schema modeling."

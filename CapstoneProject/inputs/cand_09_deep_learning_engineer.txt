@@ -1,0 +1,3 @@
+Deep Learning Engineer with 5 years of experience training and quantizing transformer and 
+neural network models in PyTorch and TensorFlow. Deployed NLP APIs using Python, FastAPI, 
+and Docker on AWS, backed by complex SQL analytics and Kubernetes scaling.

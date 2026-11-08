@@ -1,0 +1,3 @@
+"Junior Data Science Graduate with academic and internship experience in Python, Scikit-Learn, "
+            "basic TensorFlow neural networks, Pandas, and introductory SQL queries. Built Jupyter notebook "
+            "prototypes for sentiment analysis and text classification."

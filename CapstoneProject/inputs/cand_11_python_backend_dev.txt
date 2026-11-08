@@ -1,0 +1,3 @@
+Senior Python Backend Engineer with 5 years of experience developing scalable REST APIs 
+using FastAPI and Django. Strong expertise in PostgreSQL optimization, Docker containers, 
+Redis caching, and AWS EC2 deployments, with foundational knowledge of machine learning APIs.

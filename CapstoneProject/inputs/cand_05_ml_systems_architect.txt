@@ -1,0 +1,3 @@
+MLOps Architect with deep expertise in Python, TensorFlow, PyTorch, and Natural Language 
+Processing. Architected scalable REST API endpoints using FastAPI, deployed multi-container 
+clusters on Kubernetes and Docker, and maintained analytical SQL pipelines on AWS.

@@ -1,0 +1,3 @@
+"Site Reliability Engineer focused on Kubernetes cluster administration, Docker security, "
+            "Prometheus monitoring, Grafana observability, and AWS cloud networking. Automates infrastructure "
+            "remediation workflows using Python and REST webhooks."
